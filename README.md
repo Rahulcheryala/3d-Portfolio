@@ -2,6 +2,9 @@
 
 Welcome to the Interactive 3D Portfolio application! This React app utilizes Three.js and React Three Fiber to create an immersive and interactive 3D experience for showcasing your work.
 
+## Preview
+![preview](https://github.com/user-attachments/assets/2518c8d4-b24d-42f8-ace1-3153428ea13f)
+
 ## Features 🔋
 
 - **Interactive 3D Scenes**: Navigate through your portfolio in a rich 3D environment. Engage with your projects in a dynamic and visually engaging manner.
