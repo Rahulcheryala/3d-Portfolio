@@ -31,6 +31,14 @@ const Navbar = () => {
         >
           Projects
         </NavLink>
+        <NavLink
+          to="/contact"
+          className={`${
+            pathname === "/contact" ? "text-blue-500" : "text-gray-700"
+          } outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 focus-visible:ring-offset-white rounded-full px-4 py-1`}
+        >
+          Contact
+        </NavLink>
       </nav>
     </header>
   );

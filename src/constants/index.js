@@ -133,6 +133,15 @@ export const projects = [
     link: "https://github.com/Rahulcheryala/Eventura",
   },
   {
+    imageUrl: estate,
+    theme: "btn-back-blue",
+    name: "LiveDocs",
+    subTitle: "Live Document Collaboration Platform",
+    description:
+      "Engineered a feature-rich real-time collaborative document editor with nested comments, secure authentication, and document management using Clerk and server-side rendering, ensuring seamless user interaction, optimal performance, and robust data protection.",
+    link: "https://github.com/Rahulcheryala/LiveDocs",
+  },
+  {
     imageUrl: pricewise,
     theme: "btn-back-green",
     name: "IUHD",
@@ -142,19 +151,10 @@ export const projects = [
     link: "https://github.com/Ritvik0207/IITdh_Complaint_portal",
   },
   {
-    imageUrl: estate,
-    theme: "btn-back-blue",
-    name: "UniBank",
-    subTitle: "Banking Management System",
-    description:
-      "A comprehensive banking management system designed to streamline and optimize financial operations. This system offers secure account management, real-time transaction processing, and detailed reporting features. With user-friendly interfaces and robust security measures, it ensures efficient handling of accounts, transactions, and customer interactions, delivering a seamless banking experience.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
-  },
-  {
     imageUrl: threads,
     theme: "btn-back-pink",
     name: "IRCTC",
-    subTitle: "Full Stack Instagram Clone",
+    subTitle: "Backend Design of a Railway Ticket Booking Platform",
     description:
       "A robust backend database system for a railway ticket booking platform, designed to handle high volumes of transactions with speed and reliability. This system ensures secure data management, real-time seat availability, seamless booking processes, and efficient handling of passenger information. Built for scalability and performance, it guarantees a smooth and dependable booking experience for users.",
     link: "https://github.com/Rahulcheryala/IRCTC",
